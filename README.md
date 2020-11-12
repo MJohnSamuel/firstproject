@@ -1,3 +1,2 @@
 # firstproject
-hello there, its just a experimantation of github.
-first repository..
+hello there, its just a experimantation of github with branches..
